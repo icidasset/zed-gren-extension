@@ -1,0 +1,1 @@
+**Gren extension for the Zed code editor.** This is currently just a copy of the Elm Zed extension adjusted to use the [MaeBrooks/tree-sitter-gren](https://github.com/MaeBrooks/tree-sitter-gren) grammar and without a language server.

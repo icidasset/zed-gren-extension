@@ -1,0 +1,11 @@
+id = "gren"
+name = "Gren"
+description = "Gren support."
+version = "0.0.1"
+schema_version = 1
+authors = ["Steven Vandevelde <steven@tokono.ma>"]
+repository = "https://github.com/icidasset/zed-gren-extension"
+
+[grammars.gren]
+repository = "https://github.com/MaeBrooks/tree-sitter-gren"
+commit = "c06e272341363c5d8e19ac34bc7c56258a37e71b"
